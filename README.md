@@ -98,7 +98,7 @@
         <button onclick="downloadZip()">[ DOWNLOAD ZIP FILE ]</button>
     </div>
     
-    <a href="https://whatsapp.com/channel/0029VbAigTSJkK7HbvMv6s3F="whatsapp-btn">
+    <a href="https://whatsapp.com/channel/0029VbAigTSJkK7HbvMv6s3F"="whatsapp-btn">
         [ JOIN HACKER NETWORK ]
     </a>
     
